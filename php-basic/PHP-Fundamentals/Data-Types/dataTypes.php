@@ -30,7 +30,9 @@
         -> 0x repressents hexadecimal number.
         -> +0 or -0 at the start repressents Octal number.
 
-    
+    # Float Numbers are number with decimal points
+
+        -> PHP can repressent approximately not perfectly.
     
 
 
